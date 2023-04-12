@@ -1,0 +1,33 @@
+/* まず、a.cssにこのルールを書き入れてください。 */
+body {
+  font-size: 200%;
+}
+
+.fit-picture {
+  /* background-color: lightpink; */
+  float: right;
+  margin: 50px;
+  border: 5px solid magenta;
+}
+
+#skate {
+  color: pink;
+  font-weight: bold;
+}
+
+/* #title {
+  color: red;
+} */
+
+h1 {
+  clear: right;
+  color: red;
+}
+
+.little {
+  font-size: 50%;
+}
+
+#d>.little {
+  color: green;
+}
